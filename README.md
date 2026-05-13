@@ -1,6 +1,10 @@
 # LC3-TicTacToe
 Written in assembly, a terminal, text-based game of tic-tac-toe (2 player). 
 
+<img width="736" height="953" alt="image" src="https://github.com/user-attachments/assets/d9e7cbd1-6b02-438b-a901-4ccaf433f93d" />
+
+## Features
+
 The program utilizes a variety of subroutines, handling:
 - Board and rules display
 - Input validation
